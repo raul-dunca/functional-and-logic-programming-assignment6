@@ -12,8 +12,3 @@
 
 
 (print (ELIM '(a (b (c)) (d) (e (f))) 'b 'g))
-
-
-
-
-
